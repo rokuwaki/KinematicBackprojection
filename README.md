@@ -8,9 +8,11 @@ This archive follows the rule of [Oxford University Press' Author self-archiving
 
 - Submitted to: *Geophysical Journal International* (Initial submission 2018-08-01.)
 
+- EarthArXiv preprint: https://doi.org/10.31223/osf.io/dghkw
+
 - Citation:
 
-    Okuwaki, R., Kasahara, A., Yagi, Y., Hirano, S., & Fukahata, Y. (submitted on 2018, August 1). Backprojection to image slip. *Geophysical Journal International*.
+    Okuwaki, R., Kasahara, A., Yagi, Y., Hirano, S., & Fukahata, Y. (submitted on 2018, August 1). Backprojection to image slip. *Geophysical Journal International*. DOI: [10.31223/osf.io/dghkw](https://doi.org/10.31223/osf.io/dghkw)
 
 # Summary
 
@@ -18,7 +20,7 @@ Waveform backprojection is a key technique of earthquake-source imaging, which h
 
 # Contents
 
-- [Submitted manuscript](./doc/draft.pdf) (PDF: 730 KB)
+- [Submitted manuscript](./doc/draft.pdf) (PDF: 713 KB)
 
 - [Data](./data) for retrieving figures
 
