@@ -4,7 +4,8 @@ This archive follows the rule of [Oxford University Press' Author self-archiving
 
 [Ryo Okuwaki](https://rokuwaki.github.io), Amato Kasahara, [Yuji Yagi](http://www.geol.tsukuba.ac.jp/~yagi-y/eng/index.html), [Shiro Hirano](http://interfacial.jp), & [Yukitoshi Fukahata](http://www1.rcep.dpri.kyoto-u.ac.jp/~fukahata/)
 
-- Submitted to: *Geophysical Journal International* (2018-08-01)
+- Submitted to: *Geophysical Journal International* on 2018-08-01
+    - Revision made on 2018-10-14
 
 - EarthArXiv preprint: https://doi.org/10.31223/osf.io/dghkw
 
@@ -18,7 +19,7 @@ Waveform backprojection is a key technique of earthquake-source imaging, which h
 
 # Contents
 
-- [Submitted manuscript](./doc/draft.pdf) (PDF: 713 KB)
+- [Revised manuscript](./doc/draft.pdf) (PDF: 692 KB)
 
 - [Jupyter notebook](./fig.ipynb) to generate figures
 
