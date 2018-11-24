@@ -6,12 +6,13 @@ This archive follows the rule of [Oxford University Press' Author self-archiving
 
 - Submitted to: *Geophysical Journal International* on 2018-08-01
     - Revision made on 2018-10-14
+    - Accepted on 2018-11-22
 
-- EarthArXiv preprint: https://doi.org/10.31223/osf.io/dghkw
+- EarthArXiv postprint: https://doi.org/10.31223/osf.io/dghkw
 
 - Citation:
 
-    Okuwaki, R., Kasahara, A., Yagi, Y., Hirano, S., & Fukahata, Y. (submitted on 2018, August 1). Backprojection to image slip. *Geophysical Journal International*. DOI: [10.31223/osf.io/dghkw](https://doi.org/10.31223/osf.io/dghkw)
+    Okuwaki, R., Kasahara, A., Yagi, Y., Hirano, S., & Fukahata, Y. (accepted). Backprojection to image slip. *Geophysical Journal International*. DOI: [10.1093/gji/ggy505](https://doi.org/10.1093/gji/ggy505)
 
 # Summary
 
